@@ -1,1 +1,1 @@
-# Basics-of-Numpy
+# Numpy
